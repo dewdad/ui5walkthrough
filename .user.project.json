@@ -1,0 +1,36 @@
+{
+  "run": [
+    {
+      "filePath": "/ui5walkthrough/index.html",
+      "previewMode": 0,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 3649387,
+        "displayName": "New Web Application 3"
+      }
+    },
+    {
+      "filePath": "/QuickStartApplication/index.html",
+      "previewMode": 0,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 8754024,
+        "displayName": "New Web Application"
+      }
+    }
+  ]
+}
